@@ -22,3 +22,7 @@ return 2*fare;
 const fareTripler= function(fare){
   return 3*fare;
 }
+
+selectDifferentDrivers(array1, f1){
+  return f1(array);
+}
