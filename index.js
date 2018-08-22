@@ -24,5 +24,5 @@ const fareTripler= function(fare){
 }
 
 selectDifferentDrivers(array1, f1){
-;
+
 }
